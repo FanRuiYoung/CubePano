@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="demo_code/assets/icon.png" style="height: 1.5em; vertical-align: middle;">
+  <img src="./assets/icon.png" style="height: 1.5em; vertical-align: middle;">
   <em>CubePano</em>: LLM-guided Zero-shot 720-degree Panorama Generation
 </h1>
 
